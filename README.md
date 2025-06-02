@@ -1,1 +1,1 @@
-# HPC-with-CUDA---Q-for-Lattice-problems
+# HPC-with-CUDA-Q-for-Lattice-problems
